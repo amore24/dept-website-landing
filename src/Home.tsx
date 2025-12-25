@@ -18,30 +18,39 @@ const Home = () => {
       <section className='flex flex-wrap'>
         <div className='relative block-one bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px] hover:opacity-100'>
           <div className='absolute w-full h-[inherit] left-[0] top-[0] pl-[24px] pt-[374px] lg:pl-[32px] lg:pt-[345px] text-white hover:opacity-100 hover:bg-blue-300'>
-            <div className='text-base'>BOL.COM</div>
-            <p className='text-[26px] lg:text-4xl mt-[16px]'>A Summer island in the Netherlands</p>
-            <a href="" className='text-base mt-[16px]'>Read more</a>
+            <FadeInOnScroll>
+              <div className='text-base'>BOL.COM</div>
+              <p className='text-[26px] lg:text-4xl mt-[16px]'>A Summer island in the Netherlands</p>
+              <a href="" className='text-base mt-[16px]'>Read more</a>
+            </FadeInOnScroll>
           </div>
         </div>
         <div className='relative block-two bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px] hover:opacity-100'>
           <div className='absolute w-full h-[inherit] left-[0] top-[0] pl-[24px] pt-[374px] lg:pl-[32px] lg:pt-[345px] text-white hover:opacity-100 hover:bg-green-300'>
-            <div className='text-base'>KEMPEN</div>
+            <FadeInOnScroll>
+              <div className='text-base'>KEMPEN</div>
             <p className='text-[26px] lg:text-4xl mt-[16px]'>Not some average banking website</p>
             <a href="" className='text-base mt-[16px]'>Read more</a>
+            </FadeInOnScroll>
+            
           </div>
         </div>
         <div className='relative block-three bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px] hover:opacity-100'>
           <div className='absolute w-full h-[inherit] left-[0] top-[0] pl-[24px] pt-[374px] lg:pl-[32px] lg:pt-[345px] text-white hover:opacity-100 hover:bg-red-300'>
-            <div className='text-base'>PHILIPS</div>
+            <FadeInOnScroll>
+              <div className='text-base'>PHILIPS</div>
             <p className='text-[26px] lg:text-4xl mt-[16px]'>Beautiful design meets innovative technology</p>
             <a href="" className='text-base mt-[16px]'>Read more</a>
+            </FadeInOnScroll>
           </div>
         </div>
         <div className='relative block-four bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px] hover:opacity-100'>
           <div className='absolute w-full h-[inherit] left-[0] top-[0] pl-[24px] pt-[374px] lg:pl-[32px] lg:pt-[345px] text-white hover:opacity-100 hover:bg-yellow-200'>
-            <div className='text-base'>GEMEENTEMUSEUM</div>
+            <FadeInOnScroll>
+              <div className='text-base'>GEMEENTEMUSEUM</div>
             <p className='text-4xl mt-[16px]'>A 100 years of Mondriaan & De Stijl</p>
             <a href="" className='text-base mt-[16px]'>Read more</a>
+            </FadeInOnScroll>
           </div>
         </div>
       </section>
@@ -55,16 +64,20 @@ const Home = () => {
         <section className='flex flex-wrap'>
         <div className='relative block-six bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px]'>
           <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
+          <FadeInOnScroll>
             <div className='text-base'>BE LIGHTNING</div>
             <p className='text-[26px] lg:text-4xl mt-[16px]'>Delivering clarity on a global scale</p>
             <a href="" className='text-base mt-[16px]'>Read more</a>
+          </FadeInOnScroll>
           </div>
         </div>
         <div className='relative block-seven bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px]'>
           <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
-            <div className='text-base'>TUI</div>
+            <FadeInOnScroll>
+              <div className='text-base'>TUI</div>
             <p className='text-[26px] lg:text-4xl mt-[16px]'>Swipe to find your next holiday destination</p>
             <a href="" className='text-base mt-[16px]'>Read more</a>
+            </FadeInOnScroll>
           </div>
         </div>
       </section>
@@ -87,9 +100,11 @@ const Home = () => {
           </div>
           <div className='relative flex-[100%] lg:flex-[67%] h-[564px] block-eight bg-no-repeat bg-cover bg-center'>
             <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
-              <div className='text-base'>FLORENSIS</div>
+              <FadeInOnScroll>
+                <div className='text-base'>FLORENSIS</div>
               <p className='text-[26px] lg:text-4xl mt-[16px]'>Rethinking the entire online ecosystem</p>
               <a href="" className='text-base mt-[16px]'>Read more</a>
+              </FadeInOnScroll>
             </div>
           </div>
         </section>
@@ -99,30 +114,38 @@ const Home = () => {
         <section className='flex flex-wrap'>
           <div className='relative block-nine bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px]'>
             <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
-              <div className='text-base'>CHOCOMEL</div>
+              <FadeInOnScroll>
+                <div className='text-base'>CHOCOMEL</div>
               <p className='text-[26px] lg:text-4xl mt-[16px]'>A campaign for the limited edition letter packs</p>
               <a href="" className='text-base mt-[16px]'>Read more</a>
+              </FadeInOnScroll>
             </div>
           </div>
           <div className='relative block-ten bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px]'>
             <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
-              <div className='text-base'>JBL</div>
+              <FadeInOnScroll>
+                <div className='text-base'>JBL</div>
               <p className='text-[26px] lg:text-4xl mt-[16px]'>Live like a champion with Jerome Boateng</p>
               <a href="" className='text-base mt-[16px]'>Read more</a>
+              </FadeInOnScroll>
             </div>
           </div>
           <div className='relative block-elleven bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px]'>
             <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
-              <div className='text-base'>ZALANDO</div>
+              <FadeInOnScroll>
+                <div className='text-base'>ZALANDO</div>
               <p className='text-[26px] lg:text-4xl mt-[16px]'>Innovative SEO and content strategy for Zalando</p>
               <a href="" className='text-base mt-[16px]'>Read more</a>
+              </FadeInOnScroll>
             </div>
           </div>
           <div className='relative block-twelve bg-no-repeat bg-cover bg-center flex-[100%] lg:flex-[50%] h-[540px]'>
             <div className='absolute left-[24px] top-[374px] lg:left-[32px] lg:top-[345px] text-white'>
-              <div className='text-base'>KONINKLIJKE BIBLIOTHEEK</div>
+              <FadeInOnScroll>
+                <div className='text-base'>KONINKLIJKE BIBLIOTHEEK</div>
               <p className='text-[26px] lg:text-4xl mt-[16px]'>The search of the most influential book ever</p>
               <a href="" className='text-base mt-[16px]'>Read more</a>
+              </FadeInOnScroll>
             </div>
           </div>
         </section>
