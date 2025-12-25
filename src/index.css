@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Maison Neue;
+    src: url('./fonts/fonnts.com-Maison_Neue_Book.ttf');
+}
+
+* {
+    font-family: Maison Neue;
+}
+
+@import url('./App.scss');
+
+

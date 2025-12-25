@@ -1,0 +1,109 @@
+{
+    "listingData": [
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/10\/vijay-sales-logo-red-background.webp",
+            "imageAlt": "",
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/replatforming-a-retail-institution-for-modern-commerce\/",
+            "hoverColor": "#C2000F",
+            "hoverText": "Replatforming a retail institution for modern commerce",
+            "label": "Vijay Sales",
+            "industryType": "Commerce"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/09\/Arm_Hero_Static.png",
+            "imageAlt": "",
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/shaping-the-brand-behind-the-worlds-most-pervasive-tech\/",
+            "hoverColor": "#20105A",
+            "hoverText": "Shaping the brand behind the world\u2019s most pervasive tech",
+            "label": "Arm",
+            "industryType": "AI Transformation"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/08\/jbl-headphones-black.jpg",
+            "imageAlt": "JBL headphones in black ",
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/jbl-amazon\/",
+            "hoverColor": "#000000",
+            "hoverText": "From oversaturation to optimisation, with Amazon Marketing Cloud\u00a0",
+            "label": "JBL",
+            "industryType": "Retail & Commerce"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/07\/whoop-on-dirtbiker.webp",
+            "imageAlt": "WHOOP on dirt biker ",
+            "caseVideo": {
+                "type": "local"
+            },
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/whoop\/",
+            "hoverColor": "#159DB2",
+            "hoverText": "Building a sophisticated digital experience for a one-of-a-kind product",
+            "label": "WHOOP",
+            "industryType": "Health"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/06\/Pit-Viper-Shopify.jpg",
+            "imageAlt": "A cool snowboarder girl rocking a pair of Pit Vipers.",
+            "caseVideo": {
+                "type": "local"
+            },
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/turbocharging-a-shopify-site-for-the-raddest-name-in-eyewear\/",
+            "hoverColor": "#6EB300",
+            "hoverText": "Turbocharging a Shopify site for the raddest name in eyewear",
+            "label": "Pit Viper",
+            "industryType": "Commerce"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/07\/Rembrandt1.jpeg",
+            "imageAlt": "people talking to the Rembrandt portrait",
+            "caseVideo": {
+                "type": "local",
+                "id": 4299203,
+                "url": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/07\/ezgif-4a1da5d9200db5.mp4",
+                "mime": "video\/mp4"
+            },
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/ai-powered-talking-portraits\/",
+            "hoverColor": "#18242E",
+            "hoverText": "From Rembrandt to real time: The AI-powered portrait that sees and speaks",
+            "label": "Talking Portraits",
+            "industryType": "AI Transformation"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2023\/10\/2307_MyWishApp_Launch-post_V2_Option-224-e1696477114311.jpg",
+            "imageAlt": "",
+            "caseVideo": {
+                "type": "local"
+            },
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/fulfilling-dreams-for-critically-ill-children\/",
+            "hoverColor": "#1027EF",
+            "hoverText": "Granting wishes for critically ill children",
+            "label": "Make-A-Wish",
+            "industryType": "Customer Experience"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/04\/Helzberg-12.jpg",
+            "imageAlt": "Detail of Helzberg's new brand expression.",
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/helzberg-diamonds\/",
+            "hoverColor": "#475A77",
+            "hoverText": "Tapping into a 100 year legacy to create a new modern classic",
+            "label": "Helzberg Diamonds",
+            "industryType": "Brand & Media"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/05\/Pit-Viper-Glasses-still-creative.jpg",
+            "imageAlt": "Pit Viper glasses ",
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/redefining-performance-ai-face-meltingly-creative-campaign\/",
+            "hoverColor": "#EC6BC3",
+            "hoverText": "Redefining performance with AI and a face-meltingly creative campaign",
+            "label": "Pit Viper",
+            "industryType": "AI Transformation"
+        },
+        {
+            "imageUrl": "https:\/\/www.deptagency.com\/wp-content\/uploads\/2025\/05\/Bissel-FeaturedImage-1080x1350-1.jpg",
+            "imageAlt": "Bissell billboard",
+            "url": "https:\/\/www.deptagency.com\/en-in\/case\/from-click-to-clean-building-a-digital-flagship-experience\/",
+            "hoverColor": "#DB2323",
+            "hoverText": "From click to clean: building a digital flagship experience",
+            "label": "Bissell",
+            "industryType": "Retail & Commerce"
+        }
+    ]
+}
