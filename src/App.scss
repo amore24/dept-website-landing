@@ -87,3 +87,36 @@
 .icon-img{
     background-image: url('./images/ellipsis.png');
 }
+
+.text-animation-top-div {
+  animation-name: textTopAnimation;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-in-out;
+}
+@keyframes textTopAnimation {
+  from { top: 200px; }
+  to { top: 250px; text-shadow: 1px 1px gray; }
+}
+
+.text-animation-left-div {
+  animation-name: textLeftAnimation;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-in-out;
+}
+@keyframes textLeftAnimation {
+  from { left: 0px; }
+  to { left: 25px; }
+}
+
+.text-animation-right-div {
+  animation-name: textRightAnimation;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease-in-out;
+}
+@keyframes textRightAnimation {
+  from { right: 0px; }
+  to { right: 50px; }
+}
