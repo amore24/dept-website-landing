@@ -12,5 +12,5 @@ After that please run React application by below command -
 
 The web application will be running on this url - http://localhost:3000/
 
-
+To build code please run this command - `npm run build` which will create a dist folder 
 
